@@ -53,9 +53,11 @@
 
 ## 📊 Profile Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaymanahmad&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedaymanahmad&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMEDAYMANAHMAD&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHAMEDAYMANAHMAD&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 📈 Activity Graph
@@ -65,7 +67,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaymanahmad&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MOHAMEDAYMANAHMAD&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
