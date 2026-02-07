@@ -46,7 +46,6 @@
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -54,9 +53,9 @@
 
 ## 📊 Profile Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDAYMANAHMAD&theme=algolia&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaymanahmad&theme=dark&show_icons=true&count_private=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHAMEDAYMANAHMAD&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedaymanahmad&theme=dark" />
 </div>
 
 ### 📈 Activity Graph
@@ -66,7 +65,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHAMEDAYMANAHMAD&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaymanahmad&layout=compact&theme=dark" />
 </p>
 
 ---
