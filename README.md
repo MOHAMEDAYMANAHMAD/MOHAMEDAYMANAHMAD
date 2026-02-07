@@ -53,9 +53,9 @@
 
 ## 📊 Profile Statistics
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMEDAYMANAHMAD&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMEDAYMANAHMAD&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   
-  <br><br>
+  <br>
 
   <img src="https://streak-stats.demolab.com?user=MOHAMEDAYMANAHMAD&theme=tokyonight" alt="GitHub Streak" />
 </div>
